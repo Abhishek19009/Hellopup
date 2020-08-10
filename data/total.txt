@@ -1,0 +1,10 @@
+                                 TOTAL PATIENT RECORD
+
+
+
+S.no    NAME                        VILLAGE                      MOBILE NO.      AADHAR NO.      CATTLE NO.     BUFFALO NO.    SHEEP NO.     GOAT NO.       POULTRY NO.     DOG NO.        CAT NO.       DISEASED ANIMAL     DISEASE DIAGNOSIS             STATUS
+
+
+
+
+1                                                                                 8÷a            0              1967248603     0              6420536        576            0              148                                a                              

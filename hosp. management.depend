@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1586875918 source:a:\c file folder\hospital management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<unistd.h>
+
+1585995603 source:a:\c file folder\hospital management\first.c
+
+1586167216 source:a:\c file folder\hospital management\add.c
+
+1586626748 source:a:\c file folder\hospital management\delete.c
+
+1586426335 source:a:\c file folder\hospital management\details.c
+
+1586600341 source:a:\c file folder\hospital management\exit.c
+
+1586865377 source:a:\c file folder\hospital management\mainmenu.c
+
+1586185268 source:a:\c file folder\hospital management\mandatory.c
+
+1586413027 source:a:\c file folder\hospital management\search.c
+
+1586865298 source:a:\c file folder\hospital management\tutorial.c
+
